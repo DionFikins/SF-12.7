@@ -1,6 +1,6 @@
 # SF-12.7
 
-#### IsKPeriodic
+#### __IsKPeriodic__
 ``` C++
 if (K <= 0)
   return false;
